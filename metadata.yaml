@@ -1,0 +1,44 @@
+_repo: American-politics-non-partisan-from-the-beginning-to-date-b-embodying-a-history-of-all-the-po__71502
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cooper, Thomas V. (Thomas Valentine)
+    alias: Cooper, Thomas Valentine
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '56263'
+    url: http://www.gutenberg.org/2009/agents/56263
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Valentine_Cooper
+  - agent_name: Fenton, Hector T. (Hector Tyndale)
+    alias: Fenton, Hector Tyndale
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '56264'
+    url: http://www.gutenberg.org/2009/agents/56264
+description: ''
+gutenberg_issued: '2023-08-27'
+identifiers:
+  gutenberg: '71502'
+  lccn: '10009581'
+language: en
+pgterms:marc904: https://archive.org/details/americanpolitics00coopiala
+pgterms:marc905: 20160102024857cooper
+pgterms:marc906: '1892'
+pgterms:marc907: us
+production_note: Richard Tonsing, David Edwards, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPhiladelpia :$bFireside Publishing Company, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Political parties -- United States'
+- !lcc 'JK'
+- GITenberg
+title: 'American politics (non-partisan) from the beginning to date : $b embodying
+  a history of all the political parties, with their views and records on all important
+  questions. Great speeches on all great issues, and tabulated history and chronological
+  events.'
+url: http://www.gutenberg.org/ebooks/71502
